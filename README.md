@@ -1,4 +1,13 @@
-# Getting Started with Create React App
+# project link : https://moviereacts.netlify.app/
+
+#project demo 
+![screen 1](https://github.com/Sharanupatil8/MovieReacts/assets/93566630/20497ee4-4c5f-4905-b189-4be55e8376f9)  ![acreen 2]
+![screen 3](https://github.com/Sharanupatil8/MovieReacts/assets/93566630/899e35bc-88a6-4989-bd48-67c304b33828)
+
+(https://github.com/Sharanupatil8/MovieReacts/assets/93566630/30bbe68e-e558-4488-8399-82557853c3b7)
+
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
